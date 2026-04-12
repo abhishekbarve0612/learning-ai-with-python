@@ -6,3 +6,9 @@ sentence_transformers
 nltk
 absl-py
 rouge_score
+matplotlib
+
+seaborn
+pyarrow
+
+huggingface_hub
